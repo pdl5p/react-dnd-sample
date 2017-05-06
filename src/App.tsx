@@ -1,5 +1,7 @@
 import * as React from 'react';
 
-const App = () => (<div>1234</div>);
+import C1 from './C1';
+
+const App = () => (<div>React<C1 /></div>);
 
 export default App;
